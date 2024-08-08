@@ -9,7 +9,7 @@ public class AlertsCls {
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 		//This Alert
-
+		//This is comment from Varalaxmio login branch
 		
 		 WebDriver driver=new ChromeDriver();
 		 driver.get("https://demoqa.com/alerts");
